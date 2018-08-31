@@ -2147,10 +2147,52 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-r2kDN2iZPP {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
+.cid-r2l6SQ3Z1R {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-color: #767676;
+}
+@media (min-width: 992px) {
+  .cid-r2l6SQ3Z1R .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-r2l6SQ3Z1R .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-r2l6SQ3Z1R .mbr-text {
+    text-align: center;
+  }
+}
+.cid-r2l6SQ3Z1R .mbr-text,
+.cid-r2l6SQ3Z1R .mbr-section-btn {
+  text-align: left;
+}
+.cid-r2l6nn1QpT {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r2l6nn1QpT .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-r2l6nn1QpT .section-text {
+  padding: 2rem 0;
+}
+.cid-r2l6nn1QpT .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-r2l6nn1QpT .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-r2kDURSgMc .navbar {
   padding: .5rem 0;
@@ -2535,7 +2577,7 @@ body {
 }
 .cid-r2kEfEBQZ8 {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
   background-color: #767676;
 }
 @media (min-width: 992px) {
@@ -2557,50 +2599,9 @@ body {
 .cid-r2kEfEBQZ8 .mbr-section-btn {
   text-align: left;
 }
-.cid-r2kU5lkPhY {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-  background: linear-gradient(45deg, #efefef, #000000);
-}
-@media (min-width: 992px) {
-  .cid-r2kU5lkPhY .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-r2kU5lkPhY .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-r2kU5lkPhY .mbr-text {
-    text-align: center;
-  }
-}
-.cid-r2kM5nmwXm {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #767676;
-}
-@media (min-width: 992px) {
-  .cid-r2kM5nmwXm .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-r2kM5nmwXm .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-r2kM5nmwXm .mbr-text {
-    text-align: center;
-  }
-}
 .cid-r2kM6lM3PE {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 60px;
   background-color: #767676;
 }
 @media (min-width: 992px) {
